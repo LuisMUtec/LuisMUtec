@@ -6,6 +6,6 @@ I firmly believe that education is the most effective and efficient way to chang
 
 💼 Skills: Tech leadership, project management, community management.
 
-📚 I'm currently learning: Python 🐍
-📲 How to reach me: luisfermq88 (Instagram) 📷, Luis Maquera (LinkedIn) 💼
+📚 I'm currently learning: Agents, MCP, AI and DSA.
+📲 How to reach me: Luis Maquera (LinkedIn) 💼
 🎉 Fun fact: I’m a fifth-year medicine dropout! 💊➡️💻

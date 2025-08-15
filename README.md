@@ -4,7 +4,9 @@ I’m currently president at LEAD UTEC, a student organization aimed at transfor
 
 I firmly believe that education is the most effective and efficient way to change the world 🌍, which is why I aspire to become a CTO of an EdTech, JobTech, or a startup in a related field. 🔧✨
 
-💼 Skills: Tech leadership, project management, community management.
+💼 Skills: 
+- Hard: Java, Springboot, Python, React, Typescript, AWS.
+- Soft: Tech leadership, project management, community management.
 
 📚 I'm currently learning: Agents, MCP, AI and DSA.
 📲 How to reach me: Luis Maquera (LinkedIn) 💼
